@@ -32,6 +32,8 @@ Hi, my name is Illia
   <img alt="SqlServer" src="https://img.shields.io/badge/-SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <!-- React -->
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <!-- Codeigniter  -->
+  <img alt="React" src="https://img.shields.io/badge/-Codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
 </div>
 
 ### Social
