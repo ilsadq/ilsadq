@@ -30,6 +30,8 @@ Hi, my name is Illia
   <img alt="MySql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <!-- SQl Server -->
   <img alt="SqlServer" src="https://img.shields.io/badge/-SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <!-- React -->
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 </div>
 
 ### Social
