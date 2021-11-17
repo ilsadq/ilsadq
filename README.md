@@ -17,24 +17,22 @@ Hi, my name is Illia
 
 ### Languages & Tools
 
-<div>
-  <!-- Node JS -->
-  <img alt="Node JS" src="https://img.shields.io/badge/-Node%20JS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <!-- JS -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />
-  <!-- PHP -->
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white" />
-  <!-- C# -->
-  <img alt="csharp" src="https://img.shields.io/badge/-C Sharp-68217A?style=flat-square&logo=csharp&logoColor=white" />
-  <!-- MYSQL -->
-  <img alt="MySql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <!-- SQl Server -->
-  <img alt="SqlServer" src="https://img.shields.io/badge/-SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <!-- React -->
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <!-- Codeigniter  -->
-  <img alt="React" src="https://img.shields.io/badge/-Codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
-</div>
+<!-- Node JS -->
+<img alt="Node JS" src="https://img.shields.io/badge/-Node%20JS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<!-- JS -->
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />
+<!-- PHP -->
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white" />
+<!-- C# -->
+<img alt="csharp" src="https://img.shields.io/badge/-C Sharp-68217A?style=flat-square&logo=csharp&logoColor=white" />
+<!-- MYSQL -->
+<img alt="MySql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<!-- SQl Server -->
+<img alt="SqlServer" src="https://img.shields.io/badge/-SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<!-- React -->
+<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+<!-- Codeigniter  -->
+<img alt="React" src="https://img.shields.io/badge/-Codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
 
 ### Social
 
