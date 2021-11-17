@@ -13,7 +13,7 @@
   align="right"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas-mkr&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
 
-##### Hi, my name is Illia
+Hi, my name is Illia
 
 ### Languages & Tools
 
