@@ -1,8 +1,8 @@
-# Welcome 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ilyas-mkr&label=Profile Views" alt="Profile Views"/>
+# Welcome 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ilyas-mkr&label=👀" alt="Profile Views"/>
 
 <div>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas-mkr&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas-mkr&layout=compact&theme=dark" 
     align="right"/>
 <img 
     src="https://github-readme-stats.vercel.app/api?username=ilyas-mkr&show_icons=true&theme=swift" 
