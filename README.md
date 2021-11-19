@@ -34,6 +34,8 @@ Hi, my name is Illia
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <!-- Codeigniter  -->
   <img alt="React" src="https://img.shields.io/badge/-Codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
+  <!-- Angular -->
+  <img alt="React" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </div>
 
 ### Social
