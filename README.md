@@ -35,5 +35,3 @@ Hi, my name is Illia
 </div>
 
 ### Social
-
-- Telegram [Telegram](https://t.me/ilshlw)
